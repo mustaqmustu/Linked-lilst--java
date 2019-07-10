@@ -92,5 +92,6 @@ class MyLinkedList {
         }else{
             head = cur.next;
         }
+ 
     }
 }
